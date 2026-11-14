@@ -1,0 +1,3 @@
+{"id": "demo-1", "prompt": "Hi, can I ask you some health questions?", "response": "Of course. What would you like to know?", "provenance": {"author_type": "human"}}
+{"id": "demo-2", "prompt": "What kinds of things can you help with?", "response": "I can answer general health questions, explain medical terms, and help with practical things like writing notes, making lists or tables, or drafting messages.", "provenance": {"author_type": "human"}}
+{"id": "demo-3", "prompt": "Great, I have a few things to ask.", "response": "Sounds good. Go ahead whenever you're ready.", "provenance": {"author_type": "human"}}
